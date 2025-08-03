@@ -13,10 +13,10 @@
 }
 .content{
     border:1px solid black;
-    width:21vw;
+    width:350px;
     padding: 5px;
     border-radius: 5px;
-    height:40vh;
+    height:370px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -60,4 +60,5 @@ select{
     padding:5px;
   border-top-left-radius: 5px;
   border-bottom-right-radius: 5px;
+
 }
